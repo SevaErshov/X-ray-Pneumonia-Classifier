@@ -1,7 +1,8 @@
 # X-ray-Pneumonia-Classifier
-VGG11 fine-tuned model on Pneumonia Chest X-ray dataset
+**VGG11 fine-tuned model (classifier) on Pneumonia Chest X-ray dataset**
 
 Для обучения использовался следующий датасет: https://www.kaggle.com/datasets/lasaljaywardena/pneumonia-chest-x-ray-dataset
+Модель предсказывает наличие у пациента на картинке пневмонии.
 
 Итоговые метрики на тестовой выборке:
 
